@@ -8,7 +8,6 @@ license_url: https://el.wikipedia.org/wiki/ITunes
 license_text: Courtesy of Wikipedia 
 categories: 
   - Αρχέτυπα 
-  - Εφαρμογές της Apple
 tags: 
   - Apple
   - iTunes
