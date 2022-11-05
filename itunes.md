@@ -7,7 +7,8 @@ caption: Το iTunes είναι μια εφαρμογή αναπαραγωγής
 license_url: https://el.wikipedia.org/wiki/ITunes
 license_text: Courtesy of Wikipedia 
 categories: 
-  - Αρχέτυπα
+  - Αρχέτυπα 
+  - Εφαρμογές της Apple
 tags: 
   - Apple
   - iTunes
