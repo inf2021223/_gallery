@@ -8,6 +8,7 @@ license_url: https://el.wikipedia.org/wiki/Windows_7
 license_text: Courtesy of Wikipedia
 categories: 
   - Αρχέτυπα
+  - Λειτουργικά Συστήματα
 tags: 
   - Microsoft
   - Windows
