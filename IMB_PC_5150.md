@@ -8,10 +8,10 @@ year: 1981
 license_url: https://en.wikipedia.org/wiki/File:IBM_PC_5150.jpg
 license_text: Courtesy of Wikimedia
 categories: 
-     -Προσωπικοί υπολογιστές
-     -Νέα τεχνολογία
+     - Προσωπικοί υπολογιστές
+     - Νέα τεχνολογία
 tags: 
-     -ΙΒΜ computer
+     - ΙΒΜ computer
      
      
 ---
